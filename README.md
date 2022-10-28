@@ -33,4 +33,7 @@ Web developer based in Paris, France. Dynamic and open minded to create impact a
   <a href="https://www.youtube.com/channel/UCTy2DFV4djNni5fskteT16Q" target="_blank">
   <img alt="Youtube" src="https://img.shields.io/badge/youtube-%231877F2.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+    <a href="https://leogenot.github.io" target="_blank">
+  <img alt="Website" src="https://img.shields.io/badge/Website-%231877F2.svg?style=for-the-badge&logo=conventionalcommits&logoColor=white"/>
+  </a>
 </div>
