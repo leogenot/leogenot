@@ -12,11 +12,6 @@ Web developer based in Paris, France. Dynamic and open minded to create impact a
   <img alt="SCSS" src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=%2361DAFB"/>
 </div>
 
-## Currently learning
-<div align="center">
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="THREE" src="https://img.shields.io/badge/three-%2320232a.svg?style=for-the-badge&logo=threedotjs&logoColor=%2361DAFB"/>
-</div>
 
 ## :link:	Stay in touch
 
