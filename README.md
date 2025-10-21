@@ -16,7 +16,7 @@ Full-stack developer based in Copenhagen, Denmark. Dynamic and open minded to cr
 <a href="mailto:leogenot@gmail.com" target="_blank">
   <img alt="Mail" src="https://img.shields.io/badge/Email-%231877F2.svg?style=for-the-badge&logo=Email&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/leo-genot-88580b176/" target="_blank">
+  <a href="https://www.linkedin.com/in/léo-genot-88580b176/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231877F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
     <a href="https://leogenot.github.io" target="_blank">
