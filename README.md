@@ -6,6 +6,7 @@ Full-stack developer based in Copenhagen, Denmark. Dynamic and open minded to cr
 
 
 ## Frameworks I use the best
+  [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
   [![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#)
   [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
   [![Sanity](https://img.shields.io/badge/sanity-F03E2F?logo=sanity&logoColor=white)](#)
