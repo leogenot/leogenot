@@ -2,15 +2,6 @@
 
 Full-stack engineer based in Copenhagen, Denmark. Dynamic and open minded to create impact and help brands achieve their goals. With a focus on digital development and design direction.
 
----
-
-
-## Frameworks I use the best
-  [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
-  [![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#)
-  [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-  [![Sanity](https://img.shields.io/badge/sanity-F03E2F?logo=sanity&logoColor=white)](#)
-
 ## :link:	Stay in touch
 
 <div align="center">
